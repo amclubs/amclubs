@@ -42,11 +42,13 @@
  
 ✈️ **机场推荐** 🛩️
 
-【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
-[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G** ](https://am.69yun69.com)
+[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G，直接点击注册** ](https://am.69yun69.com)
 
-[*【云狐VPN】**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
+[*【最强机场】**高性价比,最低套餐只要1.99元,解锁流媒体、GPT,畅享晚高封,全线路高加密,保护隐私安全，直接点击注册** ](https://zqjc.org/#/register?code=mm8JbfEu))
+
+[*【云狐VPN】**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线，直接点击注册** ](https://yunfox.cc/?code=KPO6IFwh)
 
 <div align="center">
 ✈️ **免费节点获取** 🛩️
