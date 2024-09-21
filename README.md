@@ -34,7 +34,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
   
-[免费CF节点](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9CF%E8%8A%82%E7%82%B9/) | [免费服务器](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8/) | [免费域名](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/) | [免费VPN](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9VPN/) | [免费IPTV](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/) | [Mac工具分享](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/)
+[免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [免费服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [免费IPTV](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win分享](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 </div> 
 
 <!-- 线 -->
