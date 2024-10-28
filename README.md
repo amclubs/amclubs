@@ -18,10 +18,10 @@
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！技术分享-满满干货，从0到1实现，从技术分享到落地应用，希望你在这里能找到你需要的东西！
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！从技术分享到落地应用，免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 ,满满干货！
 
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
+▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
+</br>🎁 Fork我的GitHub仓库时，请 **follow** 下我的GitHub、给所有仓库一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
 
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
@@ -34,7 +34,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
   
-[免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [免费服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [免费IPTV](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win分享](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
+[免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [免费服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [免费IPTV](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 </div> 
 
 <!-- 线 -->
