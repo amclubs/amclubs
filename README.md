@@ -10,7 +10,7 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://am.809098.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://www.youtube.com/@AM_CLUB"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="https://www.youtube.com/channel/UCaU8zmom0Vi1LvZZw5Y_8NQ?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://t.me/AM_CLUBS"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
   <a href="https://www.facebook.com/groups/amclubs"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
   <a href="https://x.com/AMClubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
