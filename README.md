@@ -64,7 +64,7 @@
 
 【**4.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283)
 
-【**0.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/305) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/306) [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/284) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)
+【**0.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/305) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/306) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/284) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)
  
 <br>
 <!-- 敲代码的图片 -->
