@@ -1,6 +1,8 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://am.809098.xyz">
+  <a href="https://amc- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://amclubss.com">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AM科技-技术分享满满干货;console.log(%22AM科技%EF%BC%8C技术分享满满干货%22)">
   </a>
 </h1>
@@ -9,18 +11,18 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://am.809098.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://amclubss.com"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://www.youtube.com/channel/UCaU8zmom0Vi1LvZZw5Y_8NQ?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://t.me/AM_CLUBS"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
-  <a href="https://www.facebook.com/groups/amclubs"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
-  <a href="https://x.com/AMClubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
+  <a href="https://t.me/am_clubs"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
+  <a href="https://www.facebook.com/profile.php?id=61563982690740"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
+  <a href="https://x.com/amclubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
   <a href="https://github.com/amclubs"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 技术分享到落地应用！
 
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB?sub_confirmation=1)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
+▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
 </br>🎁 Fork我的GitHub仓库时，请 **follow** 下我的[GitHub](https://github.com/amclubs)、给所有仓库一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
 
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
@@ -57,7 +59,7 @@
 <div align="center">
 ✈️ **免费节点获取** 🛩️
   
-[*进入群发送关键字 订阅 获取*](https://t.me/AM_CLUBS)
+[*进入群发送关键字 订阅 获取*](https://t.me/am_clubs)
  </div> 
 
 🚀 **VPS推荐** 🚀
