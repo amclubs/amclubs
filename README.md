@@ -50,7 +50,7 @@
  
 ✈️ **机场推荐** 🛩️
 
-【🎁5折优惠码：**AM科技**】[*【红杏加速器】**中转高速机场，最低5元220G,游戏道选（送小火箭下载）直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+【🎁8折优惠码：**AM科技**】[*【红杏加速器】**中转高速机场，8元220G,游戏道选（送小火箭下载）直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
 【🎁8折优惠码：**AM888**】[*【极速云】**专线机场,（送小火箭下载）高性价比|全IEPL专线节点|高速无卡顿 直接点击注册** ](https://w1.lypyf.com/#/register?code=MCdAybnR)
 
