@@ -73,7 +73,15 @@
 【**4.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283)
 
 【**0.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/305) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/306) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/284) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)
- 
+
+ ✨ **优惠推荐** ✨
+
+【🎁开卡优惠码减5刀：**amclubs**】[*【LocalCard虚拟卡】**免认证 | 免实名 | 免月费 | 全卡段支持chatgpt | 多种消费场景** ](https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf)
+
+【🎁注册送500优惠劵】[*【lycheeip住宅IP】**大带宽🚀高速静态住宅IP推荐！原生独享双ISP | TikTok运营 | 跨境电商运营** ](https://www.lycheeip.com/?affId=THe2jDkG2g)
+
+【🎁住宅IP中转加速】[*【kookeey住宅IP】**静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营** ](https://www.kookeey.com/register.html?aff=97343708)
+
 <br>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
