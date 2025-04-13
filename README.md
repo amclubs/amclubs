@@ -7,8 +7,6 @@
   </a>
 </h1>
 
-
-
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://amclubss.com"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
@@ -47,42 +45,42 @@
 
 <!-- 线 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
- 
-✈️ **机场推荐** 🛩️
-
-【🎁8折优惠码：**AM科技**】[*【红杏云】**中转高速机场，8元220G,游戏道选（送小火箭下载）直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
-
-【🎁8折优惠码：**AM888**】[*【极速云】**专线机场,（送小火箭下载）高性价比|全IEPL专线节点|高速无卡顿 直接点击注册** ](https://w1.lypyf.com/#/register?code=MCdAybnR)
-
-【🎁每日签到免费领流量】[*【69云】**中转高速机场！全流媒体解锁，最低9.9元400G，（送小火箭下载）直接点击注册** ](https://am.69yun69.com)
-
-【🎁5折优惠码(数量有限)：**LXY**】[*【良心云】**直连机场！2元100g 4元500g 直接点击注册** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)
 
 <div align="center">
-✈️ **免费节点获取** 🛩️
+✈️ **免费节点获取** ✈️
   
 [*进入群发送关键字 订阅 获取*](https://t.me/am_clubs)
  </div> 
+ 
+✈️ **直连机场推荐** ✈️</br>
+【🎁5折优惠码(数量有限)：**LXY**】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
 
-🚀 **VPS推荐** 🚀
+✈️ **中转机场推荐** ✈️</br>
+【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)</br>
+【🎁每日签到免费领流量】[*【69云】**9.9元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://am.69yun69.com) 送自动签到脚本：[【点击获取】](https://github.com/amclubs/am-check-in)</br>
+【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
 
-【**1.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/275) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/276)
+✈️ **专线机场推荐** ✈️</br>
+【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
+【🎁8折优惠码：**candytally**】[*【糖果云】**10.8元100G 畅爽晚高峰 全解锁GPT、全流媒体(送小火箭) 点击进入官网** ](https://candytally.com/web/#/login?code=vPvpo7tl)</br>
 
-【**19.90套餐系列(每年)**】[**点击购买（法兰克福）** ](https://www.raksmart.com/cps/277) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/278) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/279)
+<h1 align="center"></h1>
 
-【**14.99套餐系列(每月)**】[**点击购买（香港）** ](https://www.raksmart.com/cps/280) ✨ [**点击购买（TY）** ](https://www.raksmart.com/cps/281)
+🚀 **VPS推荐/无限流量** 🚀</br>
+【**1.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/275) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/276) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304) ✨ [**点击购买（新用户1.99）** ](https://www.raksmart.com/cps/804)</br>
+【**19.90套餐系列(每年)**】[**点击购买（老用户2.99）** ](https://www.raksmart.com/cps/807) ✨ [**点击购买（法兰克福）** ](https://www.raksmart.com/cps/277) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/278) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/279)</br>
+【**14.99套餐系列(每月)**】[**点击购买（新用户3.99）** ](https://www.raksmart.com/cps/805) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/280) ✨ [**点击购买（TY）** ](https://www.raksmart.com/cps/281) ✨ [**点击购买（年付半价36.4）** ](https://www.raksmart.com/cps/809)</br>
+【**4.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283) ✨ [**点击购买（年付半价19.6）** ](https://www.raksmart.com/cps/808)</br>
 
-【**4.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283)
+<h1 align="center"></h1>
 
-【**0.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/305) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/306) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/284) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)
-
- ✨ **优惠推荐** ✨
-
-【🎁开卡优惠码减5刀：**amclubs**】[*【LocalCard虚拟卡】**免认证 | 免实名 | 免月费 | 全卡段支持chatgpt | 多种消费场景** ](https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf)
-
-【🎁注册送500优惠劵】[*【lycheeip住宅IP】**大带宽🚀高速静态住宅IP推荐！原生独享双ISP | TikTok运营 | 跨境电商运营** ](https://www.lycheeip.com/?affId=THe2jDkG2g)
-
-【🎁住宅IP中转加速】[*【kookeey住宅IP】**静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营** ](https://www.kookeey.com/register.html?aff=97343708)
+⚡ **住宅IP/卡/充值/账号推荐** ⚡</br>
+【🎁开卡优惠减5刀码：**amclubs**】[*【LocalCard】**银行虚拟卡 邮箱注册| 免实名| 免月费| 全卡段支持chatgpt| 多种消费场景** ](https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf)</br>
+【🎁注册送500优惠劵】[*【lycheeip】**大带宽🚀高速静态住宅IP推荐！原生独享双ISP | TikTok运营 | 跨境电商运营** ](https://www.lycheeip.com/?affId=THe2jDkG2g)</br>
+【🎁住宅IP中转加速】[*【kookeey】** 静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营** ](https://www.kookeey.com/register.html?aff=97343708)</br>
+【🎁95折码：**amclubs**】[*【银河录像局】** 奈飞账号合租，Ai账号多模型国内直连 ** ](https://nf.video/xng6j)</br>
+【🎁95折码：**amclubs**】[*【环球巴士】** 爆米花|奈飞Netflix|迪士尼|spotify|chatgpt充值/账号 ** ](https://universalbus.cn?s=gWse3wtgjbf7)</br>
+【🎁直播专线】[*【TikTok】** 直播专线/苹果ID/GPT等账号 ** ](https://www.tkspmall.com/?affId=THe2jDkG2g)</br>
 
 <br>
 <!-- 敲代码的图片 -->
