@@ -70,7 +70,7 @@
 【**1.99套餐系列(每月)**】 [**点击购买（新用户1.99）** ](https://www.raksmart.com/cps/804) ✨ [**点击购买（老用户1.99）** ](https://www.raksmart.com/cps/806) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/275) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/276)</br>
 【**19.90套餐系列(每年)**】[**点击购买（年付半价36.4）** ](https://www.raksmart.com/cps/809) ✨ [**点击购买（法兰克福）** ](https://www.raksmart.com/cps/277) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/278) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/279)</br>
 【**14.99套餐系列(每月)**】[**点击购买（年付半价19.6）** ](https://www.raksmart.com/cps/808) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/280) ✨ [**点击购买（TY）** ](https://www.raksmart.com/cps/281) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)</br>
-【**4.99套餐系列(每月)**】[**点击购买（新用户3.99）** ](https://www.raksmart.com/cps/805) ✨ [**点击购买（老用户2.99）** ](https://www.raksmart.com/cps/807) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283) ✨ </br>
+【**4.99套餐系列(每月)**】[**点击购买（新用户3.99）** ](https://www.raksmart.com/cps/805) ✨ [**点击购买（老用户2.99）** ](https://www.raksmart.com/cps/807) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283)</br>
 
 <h1 align="center"></h1>
 
