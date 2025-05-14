@@ -53,7 +53,7 @@
  </div> 
  
 ✈️ **直连机场推荐** ✈️</br>
-【🎁5折优惠码(数量有限)：**LXY**】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
+【🎁**大流量**：管够用】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
 
 ✈️ **中转机场推荐** ✈️</br>
 【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)</br>
