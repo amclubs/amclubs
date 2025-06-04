@@ -9,11 +9,13 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://amclubss.com"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://amclubss.com"><img src="https://img.shields.io/badge/blog-博客(国内)-blue"></a>&emsp;
+  <a href="https://amclubss.com"><img src="https://img.shields.io/badge/blog-博客(国际)-blue"></a>&emsp;
   <a href="https://www.youtube.com/channel/UCaU8zmom0Vi1LvZZw5Y_8NQ?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://t.me/am_clubs"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
-  <a href="https://www.facebook.com/profile.php?id=61563982690740"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
-  <a href="https://x.com/amclubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
+  <a href="https://www.facebook.com/profile.php?id=61563982690740"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp; 
+  <!-- <a href="https://x.com/amclubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp; -->
+  <a href="https://x.com/amclubss"><img src="https://img.shields.io/badge/X-twitter-blue"></a>&emsp;
   <a href="https://github.com/amclubs"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
  </div> 
 
@@ -51,18 +53,20 @@
   
 [*进入群发送关键字 订阅 获取*](https://t.me/am_clubs)
  </div> 
- 
-✈️ **直连机场推荐** ✈️</br>
-【🎁**大流量**：管够用】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
 
-✈️ **中转机场推荐** ✈️</br>
-【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)</br>
-【🎁每日签到免费领流量】[*【69云】**9.9元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://am.69yun69.com) 送自动签到脚本：[【点击获取】](https://github.com/amclubs/am-check-in)</br>
-【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
-
-✈️ **专线机场推荐** ✈️</br>
+ ✈️ **专线机场推荐** ✈️</br>
+【🎁55元1000G不限时】[*【流量光】**4.9元300G 9.9元300G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
 【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
 【🎁8折优惠码：**candytally**】[*【糖果云】**10.8元100G 畅爽晚高峰 全解锁GPT、全流媒体(送小火箭) 点击进入官网** ](https://candytally.com/web/#/login?code=vPvpo7tl)</br>
+
+✈️ **中转机场推荐** ✈️</br>
+【🎁30元500G不限时】[*【流量光】**4.9元300G 9.9元300G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
+【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)</br>
+【🎁每日签到免费领流量】[*【69云】**9.9元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://am.69yun69.com) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
+【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
+
+✈️ **直连机场推荐** ✈️</br>
+【🎁**大流量**：管够用】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
 
 <h1 align="center"></h1>
 
