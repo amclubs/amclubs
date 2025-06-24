@@ -55,12 +55,12 @@
  </div> 
 
  ✈️ **专线机场推荐** ✈️</br>
-【🎁55元1000G不限时】[*【流量光】**9.9元300G 14.9元500G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
+【🎁博主自用推荐】[*【流量光】**9.9元300G 14.9元500G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
 【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
 【🎁8折优惠码：**candytally**】[*【糖果云】**10.8元100G 畅爽晚高峰 全解锁GPT、全流媒体(送小火箭) 点击进入官网** ](https://candytally.com/web/#/login?code=vPvpo7tl)</br>
 
 ✈️ **中转机场推荐** ✈️</br>
-【🎁30元500G不限时】[*【流量光】**9.9元300G 14.9元500G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
+【🎁博主自用推荐】[*【流量光】**9.9元300G 14.9元500G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
 【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingyun3.vip/web/#/login?code=mn5Tuipf)</br>
 【🎁每日签到免费领流量】[*【69云】**9.9元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://am.69yun69.com) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
 【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
