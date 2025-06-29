@@ -20,7 +20,7 @@
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 技术分享到落地应用！
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！分享最新的技术资源动态。让您从0到1实现，从技术分享到落地应用，满满干货~ 
 
 ▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
 </br>🎁 Fork我的GitHub仓库时，请 **follow** 下我的[GitHub](https://github.com/amclubs)、给所有仓库一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
@@ -42,7 +42,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
   
-[免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [免费服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [免费IPTV](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
+[白嫖节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [白嫖域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [VPN/主机/住宅IP](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV/电影](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 </div> 
 
 <!-- 线 -->
@@ -57,12 +57,11 @@
  ✈️ **专线机场推荐** ✈️</br>
 【🎁自用推荐】[*【流量光】**9.9元300G 14.9元500G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
 【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
-【🎁8折优惠码：**candytally**】[*【糖果云】**10.8元100G 畅爽晚高峰 全解锁GPT、全流媒体(送小火箭) 点击进入官网** ](https://candytally.com/web/#/login?code=vPvpo7tl)</br>
+【🎁每日签到免费领流量】[*【69云】**10.89元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://am.69yun69.com) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
 
 ✈️ **中转机场推荐** ✈️</br>
 【🎁自用推荐】[*【流量光】**9.9元300G 14.9元500G 高性价比|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
 【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingyun3.vip/web/#/login?code=mn5Tuipf)</br>
-【🎁每日签到免费领流量】[*【69云】**9.9元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://am.69yun69.com) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
 【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
 
 ✈️ **直连机场推荐** ✈️</br>
