@@ -91,7 +91,7 @@
 <br>
 
 <!---->
-<img src="https://github-readme-stats.vercel.app/api?username=amclubs&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amclubs&show_icons=true&theme=Default" alt="logo" align="right" width="100%" />
 
 
 <!--
