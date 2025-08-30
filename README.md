@@ -78,12 +78,14 @@
 <h1 align="center"></h1>
 
 ⚡ **住宅IP/卡/充值/账号推荐** ⚡</br>
-【🎁开卡优惠减5刀码：**amclubs**】[*【LocalCard】**银行虚拟卡 邮箱注册| 免实名| 免月费| 全卡段支持chatgpt| 多种消费场景** ](https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf)</br>
-【🎁注册送500优惠劵】[*【lycheeip】**大带宽🚀高速静态住宅IP推荐！原生独享双ISP | TikTok运营 | 跨境电商运营** ](https://www.lycheeip.com/?affId=THe2jDkG2g)</br>
-【🎁住宅IP中转加速】[*【kookeey】** 静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营** ](https://www.kookeey.com/register.html?aff=97343708)</br>
-【🎁95折码：**amclubs**】[*【银河录像局】** 奈飞账号合租，Ai账号多模型国内直连 ** ](https://nf.video/xng6j)</br>
-【🎁95折码：**amclubs**】[*【环球巴士】** 爆米花|奈飞Netflix|迪士尼|spotify|chatgpt充值/账号 ** ](https://universalbus.cn?s=gWse3wtgjbf7)</br>
-【🎁直播专线】[*【TikTok】** 直播专线/苹果ID/GPT等账号 ** ](https://www.tkspmall.com/?affId=THe2jDkG2g)</br>
+<table>
+<tr><td><a href="https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf">【LocalCard】</a></td><td><a href="https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf">银行虚拟卡 邮箱注册| 免实名| 免月费| 全卡段支持chatgpt| 多种消费场景</a>🎁减5刀优惠码：amclubs</td></tr>
+<tr><td><a href="https://www.lycheeip.com/?affId=THe2jDkG2g">【lycheeip】</a></td><td><a href="https://www.lycheeip.com/?affId=THe2jDkG2g">大带宽🚀高速静态住宅IP推荐！原生独享双ISP | TikTok运营 | 跨境电商运营</a>🎁注册送500优惠劵</td></tr>
+<tr><td><a href="https://www.kookeey.com/register.html?aff=97343708">【kookeey】</a></td><td><a href="https://www.kookeey.com/register.html?aff=97343708">静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营</a>🎁送198优惠卷 200M免费动态流量</td></tr>
+<tr><td><a href="https://nf.video/xng6j">【银河录像局】</a></td><td><a href="https://nf.video/xng6j">超低价奈飞账号合租、ChatGPT、影、影视、Ai等帐号合租</a>🎁95折码：amclubs</td></tr>
+<tr><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">【环球巴士】</a></td><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">超低价爆米花|奈飞Netflix|迪士尼|spotify|chatgpt充值/账号合租</a>🎁95折码：amclubs</td></tr>
+<tr><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">【直播专线】</a></td><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">超低价购买TikTok/直播专线/苹果ID/GPT等账号</a></td></tr>
+</table>
 
 <br>
 <!-- 敲代码的图片 -->
