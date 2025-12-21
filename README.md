@@ -19,7 +19,7 @@
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎订阅「数字套利」GitHub仓库！专注前沿科技与实用数字技能，带你高效掌握数字化工具。我们不炒作、不跟风，只分享亲测有效的技术方案，让科技真正为你所用。
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎订阅「数字套利」频道！专注前沿科技与实用数字技能，带你高效掌握数字化工具。分享亲测有效的技术方案，让科技真正为你所用。
 
 ▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的支持，欢迎订阅「数字套利」我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** 
 </br>🎁 Fork我的GitHub项目时，请 **follow** 下我的[GitHub](https://github.com/amclubs)、给所有仓库一个 **Star** 星星（拜托了）！ 你的支持是我不断前进的动力！
@@ -39,19 +39,16 @@
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
-  
-[白嫖节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [白嫖域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [VPN/主机/住宅IP](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV/电影](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道内容](https://youtube.com/@am_clubs?sub_confirmation=1)** ▶️[节点系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [域名系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [住宅IP系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [工具系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
+
 </div> 
 
 <!-- 线 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
-✈️ **免费节点获取** ✈️
-  
-[*进入群发送关键字 订阅 获取*](https://t.me/am_clubs)
- </div> 
+  <a href="https://www.tkspmall.com/?affId=THe2jDkG2g">👉点击获取免费节点，进群发送关键字：订阅</a>
+</div> 
 
  ✈️ **专线机场推荐** ✈️</br>
 【🎁主打稳定：**性价比高**】[*【流量光】**9.9元300G 全流媒体解锁|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
@@ -84,6 +81,7 @@
 <tr><td><a href="https://www.kookeey.com/register.html?aff=97343708">【kookeey】</a></td><td><a href="https://www.kookeey.com/register.html?aff=97343708">静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营</a>🎁送198优惠卷 200M免费动态流量</td></tr>
 <tr><td><a href="https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf">【LocalCard】</a></td><td><a href="https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf">银行虚拟卡 邮箱注册| 免实名| 免月费| 全卡段支持chatgpt| 多种消费场景</a>🎁减5刀优惠码：amclubs</td></tr>
 <tr><td><a href="https://nf.video/xng6j">【银河录像局】</a></td><td><a href="https://nf.video/xng6j">超低价奈飞账号合租、ChatGPT、影、影视、Ai等帐号合租</a>🎁95折码：amclubs</td></tr>
+<tr><td><a href="http://accboysztl.acceboy.com">【账号星球】</a></td><td><a href="http://accboysztl.acceboy.com">AI会员、各区苹果id、电报账号、海外社媒账号、流媒体会员通通有</a>🎁15元立减券口令：数字888</td></tr>
 <tr><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">【环球巴士】</a></td><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">超低价爆米花|奈飞Netflix|迪士尼|spotify|chatgpt充值/账号合租</a>🎁95折码：amclubs</td></tr>
 <tr><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">【直播专线】</a></td><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">超低价购买TikTok/直播专线/苹果ID/GPT等账号</a></td></tr>
 </table>
