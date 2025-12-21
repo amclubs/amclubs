@@ -19,10 +19,10 @@
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎订阅「数字套利」频道！专注前沿科技与实用数字技能，带你高效掌握数字化工具。分享亲测有效的技术方案，让科技真正为你所用。
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到「数字套利」频道！专注前沿科技与实用数字技能，带你高效掌握数字化工具。分享有效的技术方案，让科技真正为你所用。
 
-▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的支持，欢迎订阅「数字套利」我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** 
-</br>🎁 Fork我的GitHub项目时，请 **follow** 下我的[GitHub](https://github.com/amclubs)、给所有仓库一个 **Star** 星星（拜托了）！ 你的支持是我不断前进的动力！
+▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的 **订阅**，欢迎订阅[「数字套利」](https://youtube.com/@am_clubs?sub_confirmation=1) 我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** 
+</br>🐙 **新人[GitHub](https://github.com/amclubs)** 需要您的 **follow**，**Fork**我的[GitHub](https://github.com/amclubs/am-cf-tunnel)仓库时请给一个 **Star** 星星（拜托了）！ 你的支持是我不断前进的动力！
 
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
@@ -36,19 +36,16 @@
 </div> 
 </details>
 
-
 <div align="center">
+<div align="center">
+  <a href="https://www.tkspmall.com/?affId=THe2jDkG2g">👉点击获取免费节点，进群发送关键字：订阅</a>
+</div> 
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道内容](https://youtube.com/@am_clubs?sub_confirmation=1)** ▶️[节点系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [域名系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [住宅IP系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [工具系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI系列](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
-
 </div> 
 
 <!-- 线 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-<div align="center">
-  <a href="https://www.tkspmall.com/?affId=THe2jDkG2g">👉点击获取免费节点，进群发送关键字：订阅</a>
-</div> 
 
  ✈️ **专线机场推荐** ✈️</br>
 【🎁主打稳定：**性价比高**】[*【流量光】**9.9元300G 全流媒体解锁|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
