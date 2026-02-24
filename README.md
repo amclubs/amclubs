@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
  ✈️ **专线机场推荐** ✈️</br>
-【🎁主打稳定：**性价比高**】[*【流量光】**9.9元300G 全流媒体解锁|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc1.com/#/register?code=bIUDEPTu)</br>
+【🎁主打稳定：**性价比高**】[*【流量光】**9.9元300G 全流媒体解锁|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc.org/#/register?code=OKyF2gDp)</br>
 【🎁7折优惠码：**candytally**】[*【糖果云】**赠送EMBY高质量影视库，清晰流畅，爽到飞起～（送小火箭下载）点击进入官网** ](https://candytally.pro/web/#/login?code=vPvpo7tl)</br>
 【🎁每日签到免费领流量】[*【69云】**10.89元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://69yun69.com/auth/register?code=yf8gPk) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
 【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
