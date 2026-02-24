@@ -56,7 +56,7 @@
 
 ✈️ **中转机场推荐** ✈️</br>
 【🎁6折优惠码：**wgjsq**】[*【乌龟加速】**20元500G 送Emby服|玩游戏首选|少量冷门节点|独立线路 点击进入官网** ](https://wuguijiasu.com/#/login?code=EcA5xYrg)</br>
-【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingyun3.vip/web/#/login?code=mn5Tuipf)</br>
+【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingyun.pro/web/#/login?code=He450PvL)</br>
 【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
 
 ✈️ **直连机场推荐** ✈️</br>
