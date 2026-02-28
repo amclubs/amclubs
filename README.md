@@ -19,7 +19,7 @@
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到「数字套利」频道！专注前沿科技与实用数字技能，带你高效掌握数字化工具。分享有效的技术方案，让科技真正为你所用。
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到「数字套利」频道！专注前沿科技与实用数字技能，带你高效掌握数字化工具和有效的技术方案，让科技真正为你所用。
 
 ▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的 **订阅**，欢迎订阅[「数字套利」](https://youtube.com/@am_clubs?sub_confirmation=1) 我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** 
 </br>🐙 **新人[GitHub](https://github.com/amclubs)** 需要您的 **follow**，**Fork**我的[GitHub](https://github.com/amclubs/am-cf-tunnel)仓库时请给一个 **Star** 星星（拜托了）！ 你的支持是我不断前进的动力！
