@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
  ✈️ **专线机场推荐** ✈️</br>
-【🎁主打稳定：**性价比高**】[*【流量光】**9.9元300G 全流媒体解锁|高速无卡顿（送小火箭下载）点击进入官网** ](https://llgjc.org/#/register?code=OKyF2gDp)</br>
+【🎁主打稳定：**性价比高**】[*【流量光】**9.9元300G 全流媒体解锁|高速无卡顿（送小火箭下载）点击进入官网** ](http://go.amclubss.com/llgjc)</br>
 【🎁7折优惠码：**candytally**】[*【糖果云】**赠送EMBY高质量影视库，清晰流畅，爽到飞起～（送小火箭下载）点击进入官网** ](https://candytally.pro/web/#/login?code=vPvpo7tl)</br>
 【🎁每日签到免费领流量】[*【69云】**10.89元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://69yun69.com/auth/register?code=yf8gPk) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
 【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
@@ -69,6 +69,7 @@
 【**19.90套餐系列(每年)**】[**点击购买（年付半价36.4）** ](https://www.raksmart.com/cps/809) ✨ [**点击购买（法兰克福）** ](https://www.raksmart.com/cps/277) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/278) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/279)</br>
 【**14.99套餐系列(每月)**】[**点击购买（年付半价19.6）** ](https://www.raksmart.com/cps/808) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/280) ✨ [**点击购买（TY）** ](https://www.raksmart.com/cps/281) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)</br>
 【**4.99套餐系列(每月)**】[**点击购买（新用户3.99）** ](https://www.raksmart.com/cps/805) ✨ [**点击购买（老用户2.99）** ](https://www.raksmart.com/cps/807) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283)</br>
+【**vmrack三网优化+原生IP高性价比 | 精品线路**】[**点击购买（月付不到2.9$）** ](https://www.vmrack.net?ref_code=5jtTobCDzCo) 
 
 <h1 align="center"></h1>
 
@@ -81,6 +82,7 @@
 <tr><td><a href="http://accboysztl.acceboy.com">【账号星球】</a></td><td><a href="http://accboysztl.acceboy.com">AI会员、各区苹果id、电报账号、海外社媒账号、流媒体会员通通有</a>🎁15元立减券口令：数字888</td></tr>
 <tr><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">【环球巴士】</a></td><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">超低价爆米花|奈飞Netflix|迪士尼|spotify|chatgpt充值/账号合租</a>🎁95折码：amclubs</td></tr>
 <tr><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">【直播专线】</a></td><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">超低价购买TikTok/直播专线/苹果ID/GPT等账号</a></td></tr>
+<tr><td><a href="https://www.equaldcdn.com/?ref=Demo-数字套利">【EqualVPN】</a></td><td><a href="https://www.equaldcdn.com/?ref=Demo-数字套利">国内CN2 AIG专线直连的住宅IP,无需复杂链式配置，高质量静态节点。 超低延迟，避免ChatGPT 等AI 降智</a></td></tr>
 </table>
 
 <br>
