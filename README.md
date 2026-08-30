@@ -60,6 +60,7 @@
 
 ✈️ **直连机场推荐** ✈️</br>
 【🎁**大流量**：管够用】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
+【🎁7折优惠码：**AM77**】[*【瞬云(SYCloud)】**💰182元/2000G不限时 485元一年/每月800G 25.2元/300G/每月 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
 
 <h1 align="center"></h1>
 
