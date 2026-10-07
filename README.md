@@ -50,17 +50,17 @@
  ✈️ **专线机场推荐** ✈️</br>
 【🎁7折优惠码：**candytally**】[*【糖果云】**赠送EMBY高质量影视库，清晰流畅，爽到飞起～（送小火箭下载）点击进入官网** ](https://candytally.pro/web/#/login?code=vPvpo7tl)</br>
 【🎁每日签到免费领流量】[*【69云】**10.89元400G 全流媒体解锁（送小火箭下载）点击进入官网** ](https://69yun69.com/auth/register?code=yf8gPk) 送自动签到脚本：[点击获取](https://github.com/amclubs/am-check-in)</br>
-【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://w1.lypyf.com/#/register?code=MCdAybnR)</br>
+【🎁8折优惠码：**AM888**】[*【极速云】**8元100G 高性价比|全IEPL专线节点|高速无卡顿（送小火箭下载）点击进入官网** ](https://905.jsy902.xyz/#/register?code=MCdAybnR)</br>
 </br>
 
 ✈️ **中转机场推荐** ✈️</br>
 【🎁6折优惠码：**wgjsq**】[*【乌龟加速】**20元500G 送Emby服|玩游戏首选|少量冷门节点|独立线路 点击进入官网** ](https://wuguijiasu.com/#/login?code=EcA5xYrg)</br>
-【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxingyun.pro/web/#/login?code=He450PvL)</br>
+【🎁8折优惠码：**AM科技**】[*【红杏云】**8元220G 游戏道选 全流媒体解锁（送小火箭下载）点击进入官网** ](https://hongxing.one/web/#/login?code=He450PvL)</br>
 【🎁5折优惠码：**AM科技**】[*【tapcloud】**6元100G 8k无压力，解锁ChatGPT、全流媒体(送小火箭) 点击进入官网** ](https://tapcloud.me/register?code=BPBMXdeo)</br>
 
 ✈️ **直连机场推荐** ✈️</br>
 【🎁**大流量**：管够用】[*【良心云】**大流量 2元100g 4元500G 6元1000g 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
-【🎁7折优惠码：**AM77**】[*【瞬云(SYCloud)】**💰182元/2000G不限时 485元一年/每月800G 25.2元/300G/每月 点击进入官网** ](https://xn--9kqz23b19z.com/#/register?code=qogEJ3L5)</br>
+【🎁7折优惠码：**AM77**】[*【瞬云(SYCloud)】**💰182元/2000G不限时 485元一年/每月800G 25.2元/300G/每月 点击进入官网** ](https://ddd.jichang.best/#/register?code=VaLRRIAg)</br>
 
 <h1 align="center"></h1>
 
