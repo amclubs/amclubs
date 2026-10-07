@@ -77,12 +77,17 @@
 <table>
 <tr><td><a href="https://www.lycheeip.com/?affId=THe2jDkG2g">【lycheeip】</a></td><td><a href="https://www.lycheeip.com/?affId=THe2jDkG2g">大带宽🚀高速静态住宅IP推荐！原生独享双ISP | TikTok运营 | 跨境电商运营</a>🎁注册送500优惠劵</td></tr>
 <tr><td><a href="https://www.kookeey.com/register.html?aff=97343708">【kookeey】</a></td><td><a href="https://www.kookeey.com/register.html?aff=97343708">静态住宅IP、动态住宅IP、静态数据IP | TikTok运营 | 跨境电商运营</a>🎁送198优惠卷 200M免费动态流量</td></tr>
-<tr><td><a href="https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf">【LocalCard】</a></td><td><a href="https://www.localcard.hk/#/pages/H5/login?code=bkBrXNCf">银行虚拟卡 邮箱注册| 免实名| 免月费| 全卡段支持chatgpt| 多种消费场景</a>🎁减5刀优惠码：amclubs</td></tr>
+<tr><td><a href="https://www.yikahk.com/landingView?ref=TvD4yF">【YIKA】</a></td><td><a href="https://www.yikahk.com/landingView?ref=TvD4yF">银行虚拟卡 邮箱注册| 免实名| 免月费| 全卡段支持chatgpt| 多种消费场景</a></td></tr>
 <tr><td><a href="https://nf.video/xng6j">【银河录像局】</a></td><td><a href="https://nf.video/xng6j">超低价奈飞账号合租、ChatGPT、影、影视、Ai等帐号合租</a>🎁95折码：amclubs</td></tr>
 <tr><td><a href="http://accboysztl.acceboy.com">【账号星球】</a></td><td><a href="http://accboysztl.acceboy.com">AI会员、各区苹果id、电报账号、海外社媒账号、流媒体会员通通有</a>🎁15元立减券口令：数字888</td></tr>
 <tr><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">【环球巴士】</a></td><td><a href="https://universalbus.cn?s=gWse3wtgjbf7">超低价爆米花|奈飞Netflix|迪士尼|spotify|chatgpt充值/账号合租</a>🎁95折码：amclubs</td></tr>
 <tr><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">【直播专线】</a></td><td><a href="https://www.tkspmall.com/?affId=THe2jDkG2g">超低价购买TikTok/直播专线/苹果ID/GPT等账号</a></td></tr>
 <tr><td><a href="https://www.equaldcdn.com/?ref=Demo-数字套利">【EqualVPN】</a></td><td><a href="https://www.equaldcdn.com/?ref=Demo-数字套利">国内CN2 AIG专线直连的住宅IP,无需复杂链式配置，高质量静态节点。 超低延迟，避免ChatGPT 等AI 降智</a></td></tr>
+
+<tr><td><a href="https://partner.bybit.com/b/AMCLUBS">【Bybit Card】</a></td><td><a href="https://partner.bybit.com/b/AMCLUBS"> 海外虚拟卡绑定微信/支付宝/ApplePay/GooglePay，终身减免20%交易手续费/开卡10U奖励/大陆身份证可开</a>🎁 邀请码：AMCLUBS</td></tr>
+<tr><td><a href="https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPZYRK3X">【蚂蚁银行】</a></td><td><a href="https://render.alipay.com/p/c/180020570000149153/index.html?invite-code=LPZYRK3X">免费澳门通+迎新最高HKD 900 + 2股babaHK价值222港币</a>🎁邀请码：LPZYRK3X</td></tr>
+<tr><td><a href="https://www.okx.com/join/62725816">【欧易（OKX）】</a></td><td><a href="https://www.okx.com/join/62725816">加密货币，或者想购买USDT、体验Web3 钱包</a>🎁输入邀请码(领100U奖励)：62725816</td></tr>
+<tr><td><a href="https://www.bit.com/zh/us-stock-intro?invite_code=67P8AM">【BIT】</a></td><td><a href="https://www.bit.com/zh/us-stock-intro?invite_code=67P8AM"> BIT是唯一支持用USDT/USDC接交易真实美股的合规通道</a>🎁输入邀请码(领300U奖赏)：67P8AM</td></tr>
 </table>
 
 <br>
